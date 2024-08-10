@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/svg-shell-script.git
+git clone https://github.com/SVG72004/svg-shell-script.git
 cd svg-shell-script
 Make the Script Executable:
 
@@ -59,4 +59,4 @@ If you have suggestions or improvements, feel free to submit a pull request or o
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Make sure to replace "your-username" with your actual GitHub username. This README.md provides a clear and concise overview of your script, its features, usage, and how to contribute.
+Make sure to replace "SVG72004" with your actual GitHub username. This README.md provides a clear and concise overview of your script, its features, usage, and how to contribute.
