@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/SVG72004/svg-shell-script.git
+git clone https://github.com/SVG72004/shubham_php
 cd svg-shell-script
 Make the Script Executable:
 
